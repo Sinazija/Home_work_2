@@ -6,7 +6,7 @@ setup(
     description='This package sorts folders by their extension',
     long_description='This package provides a command line utility that can be used to sort files in a folder based on their extensions. '
                      'It supports a variety of options that can be used to customize the sorting behavior.',
-    url='https://github.com/Sinazija/Home_work_2',
+    url='https://github.com/Sinazija/clean_folder',
     author='Dmytro Voloshchuk',
     author_email='Sinazija987@gmail.com',
     license='MIT',
