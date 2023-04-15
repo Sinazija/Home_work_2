@@ -21,7 +21,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'clean-folder = sort_folder.clean:main']
+            'clean_folder = sort_folder.clean:main']
     },
     install_requires=[
         'shutil',
