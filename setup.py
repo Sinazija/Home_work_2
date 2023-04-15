@@ -24,9 +24,7 @@ setup(
             'clean-folder = sort_folder.clean:main']
     },
     install_requires=[
-        'file_parser_package',
         'shutil',
-        'normalize_package'
     ],
     keywords='file organization,file sorting,distribution of files by extension,automation',
 )
